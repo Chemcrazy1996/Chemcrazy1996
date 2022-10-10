@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Chemcrazy1996
 - 👀 I’m interested in Chamistry and ITs
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Chemcrazy1996/Chemcrazy1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
